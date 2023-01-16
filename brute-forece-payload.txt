@@ -1,0 +1,10 @@
+admin
+admin123
+admin12345
+@dm1n123
+user
+user123
+user12345
+password
+p@ssw0rd
+P@ssword123
